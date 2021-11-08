@@ -2,23 +2,19 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "url": "https://www.facebook.com/ctpethiopia"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.instagram.com/ctpethiopia/"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://in.linkedin.com/company/ctpethiopia"
     },
     {
       "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
-    },
-    {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "url": "https://www.youtube.com/channel/UCwFh0VBOYkeiopS4np1sMDg"
     }
   ]
 }
