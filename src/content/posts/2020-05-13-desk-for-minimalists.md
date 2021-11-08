@@ -1,54 +1,31 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: Muday
+slug: /muday
+date: '2016-03-19 12:46'
+description: >+
+  What is known today as Muday Charity Association started out sixteen years ago
+  as Fresh and Green Academy, a business where the founder Muday Mitiku taught
+  children in the neighborhood. Over time, more and more children who could not
+  afford to pay the school fee joined Fresh and Green. This caused discontent
+  among the parents who paid for their children’s tuition but Muday stood her
+  ground. She was determined not to turn anyone away because of financial need.
+  Eventually, the number of students learning for free increased and the school
+  became a non-profit organization.
+
+featuredImage: /assets/muday-featured-img.jpg
 ---
+What is known today as Muday Charity Association started out sixteen years ago as Fresh and Green Academy, a business where the founder Muday Mitiku taught children in the neighborhood. Over time, more and more children who could not afford to pay the school fee joined Fresh and Green. This caused discontent among the parents who paid for their children’s tuition but Muday stood her ground. She was determined not to turn anyone away because of financial need. Eventually, the number of students learning for free increased, and the school became a non-profit organization.
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+![](/assets/muday-1.jpg)
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+​Muday Charity Association has continued to support children from impoverished backgrounds by providing education and all their basic needs. The association provides school uniforms, three meals a day, clothes, school materials and covers medical expenses for every child it supports. Muday also cares for 17 orphans who live and learn there.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+![](/assets/muday-2.jpg)
 
-## It doesn't look so shiny to me.
+Needy children are not Muday Charity Association’s only beneficiaries. The Mothers’ Cooperation, which is under Muday Charity Association, focuses on helping women become economically independent. Most of the women it supports are the mothers of the children the association educates. The women, who are survivors of many difficult conditions, are trained in various income-generating activities such as pottery and weaving. Their products are sold to raise money and the association helps the women cover their housing and medical expenses and provides them with three meals a day.
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+![](/assets/muday-3.jpg)
 
-![]()
-
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+\
+Currently, Muday Charity Association has 739 beneficiaries. The association funds its endeavors to help the needy through donations and the contributions of the founders. Because the number of mothers and children it supports is constantly increasing, Muday Charity Association welcomes donors and volunteers. Anyone interested in helping out at Muday can participate in a number of activities. Volunteers help out by teaching the students during the summer. They can also spread the word about Muday Charity Association by distributing brochures and stickers. The association also has fundraising campaigns volunteers can participate in. Those who have IT skills can help out at the office and with the computers the students use. Whatever your talents are, or even if you have none to speak of, you can contribute to Muday Charity Association’s efforts to improve the lives of the women and children under its protection.
