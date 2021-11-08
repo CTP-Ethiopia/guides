@@ -1,54 +1,27 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: /book-shelf
-date: 2019-07-10T00:00:00.000Z
-description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+title: 'An Interview with Edom Tesfa: Georgetown University'
+slug: /an-interview-with-edom-tesfa-georgetown-university
+date: '2015-12-04 20:00'
+description: 'An Interview with Edom Tesfa: Georgetown University'
+featuredImage: /assets/georgetown-background-img.png
 ---
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+> *Georgetown University is a private Catholic university in Washington D.C. The university offers 5 undergraduate colleges, Georgetown College, the School of Nursing and Health Studies, the Robert Emmett McDonough School of Business, the Walsh School of Foreign Service, and the School of Continuing Studies.[Due to its location and reputation, many politicians have graduated from Georgetown such as former U.S. President Bill Clinton; in fact, many of its faculty members are former politicians or social activists.](https://en.wikipedia.org/wiki/Georgetown_University)*
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+**1. What are your academic interests and why did you decide to pursue them?**\
+I am interested in the social foundations of immigrant and refugee education–in particular, I am interested in integration, discrimination, linguistic/cultural rights, and equal access to educational opportunities. My parents are both immigrants from Ethiopia, and we struggled a lot because they did not have many people that they could rely on. Children who immigrate (or whose parents immigrated) to the U.S. face difficulties in school due to a lack of resources and support systems available for them, as well as discriminatory policies and practices. I want to do something, whether as a guidance counselor or researcher, that will improve the experiences of immigrant and refugee students in primary and secondary schools.
 
-## It doesn't look so shiny to me.
+**2.Does your school’s curriculum allow you to explore topics unrelated to your major?**\
+Yes–and this is both good and bad. All students in the [School of Foreign Service (SFS)](https://bsfs.georgetown.edu/) must take four economics courses: microeconomics, macroeconomics, international trade, and international finance. This is relevant to most majors…except for mine. I think micro- and macroeconomics are useful, but I don’t care for the other two requirements. I would much rather spend that time taking social science or regional studies courses. All Georgetown students are also required to take two theology and two philosophy courses, regardless of major. The SFS core is rigorous and extensive, but because I took a lot of Advanced Placement (AP) classes in high school, a few of my requirements were [waived](https://bsfs.georgetown.edu/academics/core/advanced/ap). I have even more space in my schedule to take elective courses, but I haven’t taken any yet and am not sure what I will choose.
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+**3.How would you rate your university’s course selection? Are there classes that you wish to see that aren’t currently offered?**\
+Georgetown has many, many interesting courses to choose from across a wide variety of disciplines and topics. So far, I have not struggled to find a class that is at least slightly interesting. However, I wish the [Education, Inquiry, and Justice (EDIJ)](https://college.georgetown.edu/education-inquiry-justice) program were bigger and open to students in all schools, not just Georgetown College. I am allowed to take classes in the program, but I cannot earn a minor because I am in the SFS.
 
-![]()
+**4.Does your university encourage undergraduate students to collaborate with professors on research? If so, how often do students take advantage of the opportunity?**\
+Georgetown does encourage undergraduates to do research with professors, but I do not personally know that many people who take advantage of the opportunity. Since February, I have been working as a research assistant for professor [Douglas Reed](http://www.douglas-reed.com/) (Department of Government/EDIJ). We are developing a study on D.C.-area high school students who have recently immigrated to the U.S. and have limited proficiency in English. I cannot emphasize enough how much I enjoy my job. I learn so much every day, whether through conducting literature reviews or observing classrooms. It is encouraging to know that I am contributing to something that can change students’ lives. Besides, Professor Reed and I get along really well. I highly recommend working as a research assistant, even if you are not sure if you want to go to graduate school.\
+As its name states, the [Georgetown Undergraduate Research Opportunities Program (GUROP)](http://gurop.georgetown.edu/) supports undergraduates who wish to conduct independent research or work as research assistants. In 2015, I received a $4,000 grant from GUROP to continue working over the summer. The program also adds a notation onto students’ transcripts, which signals to graduate programs that GUROP participants are qualified for further study. Other universities have similar programs, so when researching universities, be sure to check out their undergraduate research programs.
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+**5**. **Is the university supportive of students who work jobs or internships?**\
+The university definitely supports students who take on internships. Since Georgetown is in D.C., a lot of students will work in the federal government or at international organizations or law firms. Our [career center](http://careercenter.georgetown.edu/) hosts job and internship fairs, information sessions, and workshops regularly. That being said, almost all of these opportunities are unpaid, and Georgetown does not offer many scholarships to students who cannot afford to perform free labor (such as myself).
