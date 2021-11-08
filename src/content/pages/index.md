@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: CTP Ethiopia Guides
+tagline: By CTP Ethiopia Inc.
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
   ctaLink: /about
+  ctaText: Know more
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+A series of blog posts and interviews that delve into the college application process.
