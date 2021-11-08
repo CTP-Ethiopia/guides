@@ -7,16 +7,28 @@ import Theme from "../components/theme"
 
 const MenuItems = [
   {
-    path: "/",
+    path: "https://ctpethiopia.org",
     title: "Home",
   },
   {
-    path: "/about",
-    title: "About",
+    path: "/",
+    title: "Guides",
   },
   {
     path: "/blog",
-    title: "Blog",
+    title: "Posts",
+  },
+  {
+    path: "https://pod.ctpethiopia.org",
+    title: "Podcast",
+  },
+  {
+    path: "https://news.ctpethiopia.org",
+    title: "News",
+  },
+  {
+    path: "https://ctpethiopia.org/about",
+    title: "About",
   },
   {
     path: "/contact",
