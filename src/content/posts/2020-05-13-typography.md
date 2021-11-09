@@ -1,58 +1,35 @@
 ---
-title: Typography
 template: blog-post
-date: 2020-05-13 09:19
-slug: /typography
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
-description: metaphorically make a deal with the devil
+title: 'An Interview with Bethel Arada: University of Maryland'
+slug: /an-interview-with-bethel-arada-university-of-maryland
+date: '2016-01-01 09:19'
+description: 'An Interview with Bethel Arada: University of Maryland'
+featuredImage: /assets/umd-aerial.jpg
 ---
 
-\# When will that be?\
-\
-I haven't felt much of anything since my guinea pig died. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.\
-\
-We'll go deliver this crate like professionals, and then we'll go home. Leela, are you alright? \_\_You got wanged on the head.\_\_ \*Dear God, they'll be killed on our doorstep!\* And there's no trash pickup until January 3rd.\
-\
 
-## Bender, you risked your life to save me!\
+> *University of Maryland (UMD) is a public university located in Maryland, close to Washington D.C. With over 20,000 undergraduate students, the school offers many different degrees, adding up to a total of 127 undergraduate degrees. At UMD, sports are important to the school’s culture; there are over 20 athletic sports teams,[men’s basketball being one of the most popular.](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park#Student_life)*
 
+**A little background. Where were you born and raised?**\
+I was born and raised in Addis Ababa, Ethiopia.**\
+Why did you decide to attend this institution ?**\
+Apart from the fact that this institution was among the best options I had for the major I initially decided to pursue, the institution is in very close proximity to my family members here in the US. My parents believed this was an extremely important attribute and they were right.\
+**\
+When you came here two/three months ago, what did you expect you’d have to do to form an environment that makes you feel at home, or at least comfortable?**\
+Of course this place will never be like the homes we know back in our blessed country of Ethiopia. But for as long as we live here, we will have to feel comfortable and at home so one of the things I did to achieve that was to bring one of my greatest assets from my home, my books. Having my most loved books on the shelf is one thing that makes this place homelike for me. I also brought a lot of sentimental stuff although I left my most important ones at home. The other important thing is to create a little bit of mess. A place too orderly doesn’t feel like home to me. So, although not to an extent that would bother my dorm mate, I let my room not be too orderly. Setting up Viber is of course extremely important.
+
+But above all, I believe that our eternal home is not any physical place but God himself. So I knew that for as long as I have his presence, I will be at home. So please bring along your bible and a heart ready to rely on God (cause trust me, you will need it). And communication with family through technology is good… but I also feel like what really unifies me and family is our unity through prayer. All in all, whatever sense of home I have in this place at the end of the day originates from the fact that I believe my home is God himself.
+
+**Looking back, what part of your expectations were met, and what were you surprised to find out you had to do?**
+
+I expected shock, sadness, loneliness and other crazy emotions, I got them all. My expectations were met VERY well. One thing that I did not expect but happened is my high school friends still remaining to be a very important part of my life (yeah, partly cause I am anti-social and don’t have very many friends here but also because I realized that they actually are among the best group of friends I might ever have). I have to say we have witnessed each other evolve into the people we are growing to be.\
+Another thing, liberal arts education is good but don’t fall too much for it. You still have to be prepared about what you want to do with your life. Although more flexible, the system is not entirely free.
+
+**How do you think your school’s attributes, such as it’s urban/rural quality, it’s total size, it’s curriculum requirements… etc have affected your comfort zone?**\
+The fact that my school is extremely big (about 35000 students) has really helped in not pressuring me to socialize under pressured environments which I am really grateful for. I will socialize at my own (very slow) pace and no pressure is exerted. But it could also be kinda falsely comforting as you might end up not having many “friends” (or whatever you call those acquaintances you have in college) at the end of the semester (first hand experience.).\
 \
-Fry! Stay back! He's too powerful! That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! You, minion. Lift my arm. AFTER HIM! When will that be?\
-\
+**Anything else you want high school seniors choosing colleges to know about finding comfort in college, or about *your* college?**\
+Know about your school in advance. Know there will be challenges like you have NEVER experienced before, so you could know tough things coming your way and not be overwhelmed. Stick with your family, you will realize that they are most probably the best human beings you will ever have contact with. Plan stuff (but you guys already know that right?Although this time you will have to plan better and actually follow what you plan). Stick with God, he is your ultimate rock.\
+Final words, come prepared guys. The summer before college when I was feeling all ambitious and all I read a few “How to survive college” articles and stuff and of all the (often important) advices I got there is one that was perhaps the best… it says “be prepared to feel completely unprepared”. This is very true of college. You will find that you are NOT prepared for anything. I think the greatest thing about college that I have seen so far in my experience and my friends’ is that you will revise your values in college… it REALLY puts life to perspective. The process is not comfortable and is very rough. But I think it is VERY worth it. Above all, stick with God.
 
-1. All I want is to be a monkey of moderate intelligence who wears a suit… that's why I'm transferring to business school!\
-2. Leela, Bender, we're going grave robbing.\
-3. A true inspiration for the children.\
-   \
-
-### Would you censor the Venus de Venus just because you can see her spewers?\
-
-\
-And then the battle's not so bad? I don't 'need' to drink. I can quit anytime I want! Why would a robot need to drink? A true inspiration for the children. You can crush me but you can't crush my spirit!\
-\
-
-- Is today's hectic lifestyle making you tense and impatient?\
-- Ow, my spirit!\
-- This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!\
-  \
-  You lived before you met me?! With a warning label this big, you know they gotta be fun! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.\
-  \
-  It's a T. It goes "tuh". Oh, I think we should just stay friends. Yes. You gave me a dollar and some candy. Tell her you just want to talk. It has nothing to do with mating. Fry! Stay back! He's too powerful!\
-  \
-  We're also Santa Claus! I guess because my parents keep telling me to be more ladylike. As though! I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money.\
-  \
-  Good man. Nixon's pro-war and pro-family. Yes. You gave me a dollar and some candy. Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! That's the ONLY thing about being a slave.\
-  \
-  Fry, we have a crate to deliver. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it! I never loved you.\
-  \
-  Fry! Stay back! He's too powerful! One hundred dollars. Whoa a real live robot; or is that some kind of cheesy New Year's costume? I haven't felt much of anything since my guinea pig died. WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!\
-  \
-  Okay, I like a challenge. Then we'll go with that data file! I didn't ask for a completely reasonable excuse! I asked you to get busy! Is the Space Pope reptilian!? Yes, I saw. You were doing well, until everyone died.\
-  \
-  Ask her how her day was. Do a flip! In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their stemcells. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?\
-  \
-  I'm just glad my fat, ugly mama isn't alive to see this day. I am Singing Wind, Chief of the Martians. Interesting. No, wait, the other thing: tedious. Hey, you add a one and two zeros to that or we walk!\
-  \
-  Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd. Why yes! Thanks for noticing. You don't know how to do any of those. Well I'da done better, but it's plum hard pleading a case while awaiting trial for that there incompetence.\
-  \
-  Who's brave enough to fly into something we all keep calling a death sphere? Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages! It doesn't look so shiny to me.
+![](/assets/umd-bethel.png)
