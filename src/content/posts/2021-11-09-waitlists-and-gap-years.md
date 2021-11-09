@@ -3,7 +3,7 @@ template: blog-post
 title: Waitlists and Gap Years
 slug: /waitlists-and-gap-years
 date: '2020-04-10 23:30'
-description: >+
+description: >
   Selam selam everyone! Since rolling decisions’ results are “rolling” in, this
   week’s post will be about waitlists and gap years! If you’ve applied to a
   bunch of colleges before, chances are you’ve been waitlisted to a couple of
@@ -18,6 +18,7 @@ description: >+
   you’re eager to join the college even if you’re on the waitlist since there’s
   this hidden thinking that you might have went to another school during regular
   decisions.
+featuredImage: /assets/decisions.png
 ---
 Selam everyone! Since rolling decisions’ results are “rolling” in, this week’s post will be about waitlists and gap years! If you’ve applied to a bunch of colleges before, chances are you’ve been waitlisted to a couple of them. Being waitlisted for a college means you’ve been put on a list of applicants to whom a school might or might not offer admission to. Now if this happens don’t be bummed at all since there are certain things you can do to increase your chances of getting off the waitlist. You can raise your grades, you can take part in extracurriculars or internships, and participate in other aspects of the college application. Then you can write a letter to the school’s dean of admissions to talk about the new things you have done since your initial application. Also, it’s important to inform the school that you’re eager to join the college even if you’re on the waitlist since there’s this hidden thinking that you might have gone to another school during regular decisions.
 
