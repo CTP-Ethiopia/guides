@@ -10,7 +10,7 @@ description: >+
   encompasses all types of aid- directly received from a university-that goes
   towards financing your education. 
 
-featuredImage: /assets/decisions.png
+featuredImage: /assets/fin-aid.jpg
 ---
 **\*What is financial aid ? \***
 
